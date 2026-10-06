@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Sky. Developer from Saudi Arabia 🇸🇦</h2>
 
-<img align="right" height="180" src="https://i.giphy.com/IKFVtPf8jP6KJH16dB.webp" />
+<img align="right" height="180" src="https://media.giphy.com/media/ydy4yfkm0jdvy/giphy.gif" alt="Batman" />
 
 <p align="left">
   I build tools for cinema operations — inventory, sales, petty cash, and live dashboards.
