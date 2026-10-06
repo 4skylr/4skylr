@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Sky. Developer from Saudi Arabia 🇸🇦</h2>
 
-<img align="right" height="180" src="https://media.giphy.com/media/ydy4yfkm0jdvy/giphy.gif" alt="Batman" />
+<img align="right" height="180" src="https://i.giphy.com/IKFVtPf8jP6KJH16dB.webp" />
 
 <p align="left">
   I build tools for cinema operations — inventory, sales, petty cash, and live dashboards.
@@ -59,8 +59,4 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4skylr&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake.svg">
-</picture>
+<img alt="crypto snake" src="https://raw.githubusercontent.com/4skylr/4skylr/main/crypto-snake.svg">
