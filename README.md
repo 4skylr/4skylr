@@ -1,70 +1,66 @@
-<div align="center">
+<h2 align="left">Hi 👋! I'm Sky. Developer from Saudi Arabia 🇸🇦</h2>
 
-```
-  _____ _  ___   _____
- / ____| |/ / | / /_   _|
-| (___ | ' /| |/ /  | |
- \___ \|  < |   <   | |
- ____) | . \| |\ \ _| |_
-|_____/|_|\_\_| \_|_____|
+<img align="right" height="180" src="https://i.giphy.com/IKFVtPf8jP6KJH16dB.webp" />
 
-        PROFILE SCAN  //  4skylr
-        criminology  ·  crypto  ·  nothing else
-```
+<p align="left">
+  I build tools for cinema operations — inventory, sales, petty cash, and live dashboards.
+</p>
 
+<p align="left">
+  <a href="https://nc-inventory.netlify.app/">Noir Cinema Inventory</a>
+  ·
+  <a href="https://4skylr.github.io/">Live site</a>
+  ·
+  <a href="https://github.com/4skylr/claquette">CLAQUETTE</a>
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39D353&vCenter=true&width=480&lines=React+%2B+TypeScript+%2B+Firebase;Cinema+ops+%26+inventory+tools;Building+in+Qassim%2C+Saudi+Arabia" alt="Typing SVG" />
+</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="vite" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
 </div>
 
-```text
-┌── SYSTEM ───────────────────────────────────────────
-│  subject      4skylr
-│  role         field reader
-│  status       mapping · noting · shipping
-│  languages    English
-│  domains      criminology · crypto
-│  stack        TypeScript · JavaScript · Python
-│  contact      github.com/4skylr
-└────────────────────────────────────────────────
-```
+<br/>
 
-<div align="center">
-
-```
-        · · · · · · · · · · · · · · ·
-      · · · · · · · · · · · · · · · · ·
-    · · · · · · · █ █ █ █ █ · · · · · · ·
-    · · · · · █ █ █ █ █ █ █ █ █ · · · · ·
-    · · · · █ █ ░ ░ █ █ █ ░ ░ █ █ · · · ·
-    · · · · █ █ █ █ █ █ █ █ █ █ █ · · · ·
-    · · · · · █ █ █ ░ ░ ░ █ █ █ · · · · ·
-    · · · · · · █ █ █ █ █ █ █ · · · · · ·
-      · · · · · · · █ █ █ · · · · · · ·
-        · · · · · · · · · · · · · · ·
-                 VISUAL MAP
-```
-
-[Case Atlas](https://github.com/4skylr/case-atlas)  ·  [Forensic Lexicon](https://github.com/4skylr/forensic-lexicon)  ·  [Chain Notes](https://github.com/4skylr/chain-notes)
-
+<div align="left">
+  <a href="https://github.com/4skylr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github" />
+  </a>
 </div>
 
-## Signal
+<br/>
 
-| Field | Desk |
-|---|---|
-| Criminology | Why conduct is defined as crime, who is controlled, how sanction is distributed. Theory, not method. |
-| Crypto | Market structure, custody, and how to read a chain. Notes, not signals, not advice. |
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=4skylr&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4skylr&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+</p>
 
-## Live
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4skylr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4skylr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4skylr&bg_color=0d1117&color=39d353&line=2ea043&point=ffffff&area=true&hide_border=true" alt="activity" />
-
-</div>
-
-```text
-Every panel above is live GitHub data.
-No cinema. No Arabic on this page. Criminology and crypto only.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/4skylr/4skylr/output/github-snake.svg">
+</picture>
